@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "805024455877",
+    "firebase_url": "https://foodup-ca57b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "foodup-ca57b",
+    "storage_bucket": "foodup-ca57b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805024455877:android:21d941cee4158cb743a4ac",
+        "android_client_info": {
+          "package_name": "com.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeyiC2JuT52Tae_-zgeoB6VhMRYCXOrIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
